@@ -96,7 +96,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://www.bitbash.dev/">
+  <a href="https://www.appilot.app/">
     <img src="https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge" />
   </a>
   <a href="https://discord.gg/zX7frTbx">
