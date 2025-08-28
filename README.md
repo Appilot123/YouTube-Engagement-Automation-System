@@ -106,4 +106,4 @@ This project is designed for **scalability, natural behavior, and reliability**,
 </p>
 
 
-<img width="1536" height="100" alt="Image" src="https://github.com/user-attachments/assets/e67e2131-dadf-499d-b21b-5f09bdf8d27f" />
+<img width="1536" height="200" alt="Image" src="https://github.com/user-attachments/assets/e67e2131-dadf-499d-b21b-5f09bdf8d27f" />
