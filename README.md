@@ -43,7 +43,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ---
 
-### 🛠 Planned (To-Do)
+###  Planned (To-Do)
 - Embedded views from external platforms (Twitter, Reddit, etc.)  
 - Multi-threaded worker pool  
 - Dashboard analytics with metrics  
