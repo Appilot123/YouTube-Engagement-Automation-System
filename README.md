@@ -1,4 +1,4 @@
-# 📺 YouTube Engagement Automation
+#  YouTube Engagement Automation
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white&style=for-the-badge">
@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 The **YouTube Engagement Automation Bot** is built using **Python, Selenium, Multilogin APIs, and Residential/Mobile Proxies**.  
 It simulates realistic user activity on YouTube such as searching, watching, liking, subscribing, and commenting.  
 All accounts are managed safely through Multilogin to ensure isolation and reduced detection risks.
@@ -26,7 +26,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ---
 
-## ⚡ Features
+##  Features
 
 - **Search-based Views** → Perform keyword search, scroll naturally, and watch selected videos.  
 - **Likes & Subscriptions** → Configurable ratios for engagement.  
@@ -50,7 +50,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ---
 
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 
 - **Python 3.10+** – core development  
 - **Selenium** – browser automation  
@@ -60,7 +60,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ![Architecture](architecture.png)
 
@@ -72,7 +72,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 <img width="1918" height="1008" alt="Image" src="https://github.com/user-attachments/assets/6d95b0e6-d442-425b-99d9-def655a38d3c" />
 
 
-## 🎥 Demo
+##  Demo
 
 ![Demo](demo.gif)  
 
@@ -80,7 +80,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ---
 
-## 🛣️ Roadmap
+##  Roadmap
 
 - [ ] Embedded external views  
 - [ ] Multiprocessing scaling  
@@ -90,7 +90,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - 🌐 Website: [BitBash.dev](https://www.bitbash.dev/)  
 - 💬 Discord: [Appilot Community](https://discord.gg/zX7frTbx)  
