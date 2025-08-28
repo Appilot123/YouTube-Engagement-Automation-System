@@ -81,7 +81,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 
 <video width="100%" controls>
-  <source src="Automating%20YouTube%20Interactions%20with%20Python%20Scripts%20(1).mp4" type="video/mp4">
+  <source src="Automating YouTube Interactions with Python Scripts (1)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
