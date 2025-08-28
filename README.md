@@ -75,15 +75,8 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ##  Demo
 
-![Demo](demo.gif)  
-
-![Code Snapshot](code_snap.png)  
 
 
-<video width="100%" controls>
-  <source src="Automating YouTube Interactions with Python Scripts (1)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ---
