@@ -75,6 +75,9 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ##  Demo
 
+![Demo](demo.gif)  
+
+![Code Snapshot](code_snap.png)  
 
 
 <video width="100%" controls>
