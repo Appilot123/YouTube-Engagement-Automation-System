@@ -93,9 +93,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ##  Contact
 
-<h2 align="center">Contact</h2>
-
-<p align="center">
+<p align="left">
   <a href="https://www.appilot.app/">
     <img src="https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge" />
   </a>
@@ -108,4 +106,4 @@ This project is designed for **scalability, natural behavior, and reliability**,
 </p>
 
 
-![Footer](footer.png)
+<img width="1536" height="100" alt="Image" src="https://github.com/user-attachments/assets/e67e2131-dadf-499d-b21b-5f09bdf8d27f" />
