@@ -10,6 +10,13 @@
 
 ---
 
+<p align="center">
+ <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5d26dc25-12fc-4f6f-a32e-8505af8abc05" />
+</p>
+
+
+---
+
 ## 📖 Overview
 The **YouTube Engagement Automation Bot** is built using **Python, Selenium, Multilogin APIs, and Residential/Mobile Proxies**.  
 It simulates realistic user activity on YouTube such as searching, watching, liking, subscribing, and commenting.  
