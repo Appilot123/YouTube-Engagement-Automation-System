@@ -28,19 +28,18 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ##  Features
 
-- **Search-based Views** → Perform keyword search, scroll naturally, and watch selected videos.  
-- **Likes & Subscriptions** → Configurable ratios for engagement.  
-- **Custom Comments** → Multi-language, emojis, and spintax support.  
-- **Viewing Time Control** → Flexible duration (e.g., 90–120s, up to 5 minutes).  
-- **Playback Settings** → Adjust speed (1x, 1.25x, etc.) and quality (720p, 1080p).  
-- **Random Act System**:  
-  - Browse Trending videos  
-  - Watch Shorts  
-  - Click recommended sidebar videos  
-  - Random like/dislike actions  
-- **Country Traffic Split** → Distribute activity across different regions using proxies.  
-- **Session Isolation** → Per-account cookies and fingerprints.  
-- **Dashboard** → Manage accounts, ratios, schedules, and geo routing.  
+| Feature                | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Search-based Views**  | Perform keyword search, scroll naturally, and watch selected videos.        |
+| **Likes & Subscriptions** | Configurable ratios for engagement.                                       |
+| **Custom Comments**     | Multi-language, emojis, and spintax support.                               |
+| **Viewing Time Control** | Flexible duration (e.g., 90–120s, up to 5 minutes).                       |
+| **Playback Settings**   | Adjust speed (1x, 1.25x, etc.) and quality (720p, 1080p).                  |
+| **Random Act System**   | Browse Trending videos, watch Shorts, click recommended sidebar videos, and random like/dislike actions. |
+| **Country Traffic Split** | Distribute activity across different regions using proxies.               |
+| **Session Isolation**   | Per-account cookies and fingerprints for safety.                           |
+| **Dashboard**           | Manage accounts, ratios, schedules, and geo routing.                       |
+
 
 ---
 
