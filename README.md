@@ -62,7 +62,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ## Code Snapshot 
 
-![code](youtube code.png)
+<img width="1918" height="1008" alt="Image" src="https://github.com/user-attachments/assets/6d95b0e6-d442-425b-99d9-def655a38d3c" />
 
 
 ## 🎥 Demo
