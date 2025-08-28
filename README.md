@@ -59,6 +59,12 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ---
 
+
+## Code Snapshot 
+
+![code](youtube code.png)
+
+
 ## 🎥 Demo
 
 ![Demo](demo.gif)  
