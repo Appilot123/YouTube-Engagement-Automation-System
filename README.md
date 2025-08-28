@@ -93,8 +93,19 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ##  Contact
 
-- 🌐 Website: [BitBash.dev](https://www.bitbash.dev/)  
-- 💬 Discord: [Appilot Community](https://discord.gg/zX7frTbx)  
-- ✈️ Telegram: [@devpilot1](https://t.me/devpilot1)
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <a href="https://www.bitbash.dev/">
+    <img src="https://img.shields.io/badge/-Website-0a0a0a?style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/zX7frTbx">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge" />
+  </a>
+  <a href="https://t.me/devpilot1">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge" />
+  </a>
+</p>
+
 
 ![Footer](footer.png)
