@@ -42,6 +42,8 @@ This project is designed for **scalability, natural behavior, and reliability**,
 - **Session Isolation** → Per-account cookies and fingerprints.  
 - **Dashboard** → Manage accounts, ratios, schedules, and geo routing.  
 
+---
+
 ### 🛠 Planned (To-Do)
 - Embedded views from external platforms (Twitter, Reddit, etc.)  
 - Multi-threaded worker pool  
