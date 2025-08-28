@@ -1,10 +1,12 @@
 # 📺 YouTube Engagement Automation
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white&style=for-the-badge">
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium-Automation-43B02A?logo=selenium&logoColor=white&style=for-the-badge">
-<img alt="Multilogin" src="https://img.shields.io/badge/Multilogin-Integration-blue?style=for-the-badge">
-<img alt="Proxies" src="https://img.shields.io/badge/Residential/Mobile-Proxies-000?style=for-the-badge">
-<img alt="License" src="https://img.shields.io/badge/License-MIT-0a0a0a?style=for-the-badge">
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-Automation-43B02A?logo=selenium&logoColor=white&style=for-the-badge">
+  <img alt="Multilogin" src="https://img.shields.io/badge/Multilogin-Integration-blue?style=for-the-badge">
+  <img alt="Proxies" src="https://img.shields.io/badge/Residential/Mobile-Proxies-000?style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-0a0a0a?style=for-the-badge">
+</p>
 
 ---
 
