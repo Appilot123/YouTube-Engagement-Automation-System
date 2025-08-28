@@ -63,7 +63,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ##  Architecture
 
-![Architecture](architecture.png)
+<img width="1024" height="300" alt="Image" src="https://github.com/user-attachments/assets/34c71cb1-bbca-4281-b5d0-207a2bfc0b8b" />
 
 ---
 
