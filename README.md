@@ -74,7 +74,7 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 ## Demo
 <p align="center">
-  <video src="demo-video.mp4"
+  <video src="[demo-video.mp4](https://github.com/Appilot123/YouTube-Engagement-Automation-System/blob/main/demo-video.mp4)"
          width="900"
          height="506"
          controls
