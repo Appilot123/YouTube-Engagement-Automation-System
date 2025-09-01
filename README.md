@@ -72,14 +72,19 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 <img width="1918" height="1008" alt="Image" src="https://github.com/user-attachments/assets/6d95b0e6-d442-425b-99d9-def655a38d3c" />
 
-
-##  Demo
+## Demo
 <p align="center">
-  <video width="900" height="506" controls muted playsinline poster="assets/cover.png">
-    <source src="demo video.mp4" type="video/mp4">
+  <video src="demo-video.mp4"
+         width="900"
+         height="506"
+         controls
+         muted
+         playsinline
+         poster="contact.png">
     Your browser does not support the video tag.
   </video>
 </p>
+
 
 
 
