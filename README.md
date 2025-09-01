@@ -74,8 +74,12 @@ This project is designed for **scalability, natural behavior, and reliability**,
 
 
 ##  Demo
-
-
+<p align="center">
+  <video width="900" height="506" controls muted playsinline poster="assets/cover.png">
+    <source src="demo video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 
 
