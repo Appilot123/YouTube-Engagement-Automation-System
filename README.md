@@ -73,17 +73,18 @@ This project is designed for **scalability, natural behavior, and reliability**,
 <img width="1918" height="1008" alt="Image" src="https://github.com/user-attachments/assets/6d95b0e6-d442-425b-99d9-def655a38d3c" />
 
 ## Demo
-<p align="center">
-  <video src="[demo-video.mp4](https://github.com/Appilot123/YouTube-Engagement-Automation-System/blob/main/demo-video.mp4)"
-         width="900"
-         height="506"
-         controls
-         muted
-         playsinline
-         poster="contact.png">
+<div align="center">
+  <video
+    src=""
+    width="85%"
+    height="50%"
+    controls
+    muted
+    playsinline
+  >
     Your browser does not support the video tag.
   </video>
-</p>
+</div>
 
 
 
